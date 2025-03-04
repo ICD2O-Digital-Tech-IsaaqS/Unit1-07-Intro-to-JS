@@ -1,0 +1,20 @@
+/* Created by: Isaaq Simon
+* Created on: Mar 2025
+* This file contains the CSS for index.html
+*/
+
+
+body {
+    background-color: rgb(209, 200, 70);
+}
+
+h1 {
+    background-color: rgb(214, 219, 176);
+    color: hsl(147, 50%, 47%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #4e520f;
+}
